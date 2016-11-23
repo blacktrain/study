@@ -80,3 +80,15 @@ fun! ShowFuncName()
 	call search("\\%" . lnum . "l" . "\\%" . col . "c")
 endfun
 map f :call ShowFuncName() <CR>
+
+if filereadable("./.vimrc")
+	source ./.vimrc
+endif
+
+if filereadable("./../.vimrc")
+	source ./../.vimrc
+endif
+
+if filereadable("./*/.vimrc")
+	source ./*/.vimrc
+endif
