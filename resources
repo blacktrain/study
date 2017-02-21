@@ -12,3 +12,5 @@ http://blog.csdn.net/mirage1993/article/details/50855114 bochs grub
 http://my-zhang.github.io/blog/2014/06/28/make-bootable-linux-disk-image-with-grub2/ bochs grub
 https://www.aldeid.com/wiki/Category:Architecture/x86-assembly 
 http://thestarman.pcministry.com/asm/mbr/index.html
+http://blog.chinaunix.net/uid-20564848-id-72916.html //MBR DBR BPB FAT FDT
+http://blog.csdn.net/cppgp/article/details/6361020 //grub 代码解释
