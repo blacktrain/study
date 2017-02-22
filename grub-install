@@ -1,0 +1,1 @@
+sudo ./grub-install --no-floppy --grub-mkdevicemap=/mnt/minilinux/boot/grub/device.map --root-directory=/mnt/minilinux /dev/loop0
