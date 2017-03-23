@@ -1,1 +1,13 @@
-tree begin_class_definition(tree t):semantics.c:2570
+tree begin_class_definition(tree t):gcc/cp/semantics.c:2570
+tree cp_parser_type_specifier(cp_parser* parser,cp_parser_flags* flags,
+cp_decl_specifier_seq* decl_specs,bool is_declaration,int *declares_class_or_enum,bool *is_cv_qualifier):gcc/cp/parser.c:13514
+
+toplev_main -> do_compile -> compile_file -> c_common_parse_file -> c_parse_file ->cp_parser_translation_unit
+
+tree_node...etc:coretypes.h
+cpp_reader:libcpp/internal.h
+cpp_create_reader:libcpp/init.c
+c_common_init_options->cpp_create_reader:c-family/c-opt.c
+c_common_init:c-family/c-opt.c
+libcpp/macro.c
+
