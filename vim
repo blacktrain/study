@@ -19,3 +19,6 @@ http://learnvimscriptthehardway.onefloweroneworld.com/
 
 好的博客
 http://easwy.com/blog/archives/advanced-vim-skills-save-project-configuration/
+
+w3cschool
+https://www.w3cschool.cn/vim/cjtr1pu3.html
