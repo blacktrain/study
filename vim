@@ -16,3 +16,6 @@ http://blog.csdn.net/rainysia/article/details/7660822
 https://my.oschina.net/VASKS/blog/388907
 
 http://learnvimscriptthehardway.onefloweroneworld.com/
+
+好的博客
+http://easwy.com/blog/archives/advanced-vim-skills-save-project-configuration/
